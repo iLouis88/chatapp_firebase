@@ -7,7 +7,7 @@ Welcome to my project!
 ## Member's name
 Contributing members of this application include:
 - Nguyen Van Thanh
-- Nguyen Van Manh
+- Luu Van Manh
 
  ## SETTING IT UP
  1. Add firbease to this project and do check the google-services.json and GoogleServices-Info.plist file
